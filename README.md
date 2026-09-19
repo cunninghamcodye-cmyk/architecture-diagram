@@ -1,2 +1,2 @@
-# architecture-diagram
-architecture diagram
+# Calorie Count App
+Calorie Count App
